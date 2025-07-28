@@ -6,7 +6,7 @@ metadata:
     deploy.cloud.google.com/delivery-pipeline-id: git-pipeline
     deploy.cloud.google.com/location: us-west2
     deploy.cloud.google.com/project-id: minnah-testing
-    deploy.cloud.google.com/release-id: release-006
+    deploy.cloud.google.com/release-id: release-007
     deploy.cloud.google.com/target-id: git-dev
   name: getting-started
 spec:
